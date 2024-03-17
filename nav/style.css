@@ -1,0 +1,40 @@
+.principale{
+    width: 1300px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-radius: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color:antiquewhite;
+}
+.contenitori{
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(212, 173, 101);
+}
+.contenitoribig{
+    border: 1px solid black;
+    width: 350px;
+    height: 150px;
+    border-radius: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(212, 173, 101)
+    
+}
+.contenitoribig img{
+    
+    width: 100px;
+    
+    
+    
+}

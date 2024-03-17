@@ -1,0 +1,39 @@
+.Principale{
+    width: 300px;
+    height: 450px;
+    border: solid 1px black;
+    overflow: hidden;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.Principale img{
+    width: 500px;
+    border: solid 1px black;
+    display: inline-block;
+    position: absolute;
+    left: -50px;
+    
+
+}
+.secondocontenitore{
+    position: absolute;
+    width: 300px;
+    height: 120px;
+    border: 1px solid black;
+    margin: 0px;
+    background-color: antiquewhite;
+    display: inline-block;
+    bottom: 0px;
+    
+}
+.secondocontenitore h1{
+    width: 200px;
+    height: 120px;
+}
+.secondocontenitore span{
+    font-size: small;
+    width: 200px;
+    height: 120px;
+}
